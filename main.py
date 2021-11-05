@@ -1,4 +1,4 @@
-import crypt,time,configs,bcrypt
+import time,configs
 from cryptography.fernet import Fernet
 
 
